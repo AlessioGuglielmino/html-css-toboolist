@@ -1,0 +1,144 @@
+*{
+    box-sizing: border-box;
+}
+
+#logo{
+    
+    vertical-align: middle;
+}
+
+
+.title{
+    display: inline;
+    margin: 0;
+    padding: 10px;
+}
+
+
+header{
+    height: 100px;
+    line-height: 100px;;
+
+}
+
+
+
+.title{
+    vertical-align: middle;
+}
+
+main{
+    background-color:lightgray ;
+    padding-top: 40px;
+      
+    
+}
+
+
+
+.contenitore{
+    
+    background-color: white;
+    margin-left: 300px;
+    margin-right: 300px ;
+    border-radius: 5px;
+   
+    
+
+}
+
+.bottoni{
+    height: 40px;
+    line-height: 40px;
+}
+
+
+.bottoni , .centro{
+margin-left: 50px;
+}
+
+
+
+
+#task{
+    background-color: rgb(0, 195, 255);
+    color: white;
+    border: none;
+}
+
+#add-section{
+    color: gray;
+    border: none;
+}
+
+.true{
+    display: inline-block;
+    height:15px;
+    width: 15px;
+    text-align: center;
+    line-height: 15px;
+    color: green ;
+    border: solid green 0.5px;
+    border-radius: 50%
+    ;
+
+}
+
+.false{
+    display: inline-block;
+    height:15px;
+    width: 15px;
+    text-align: center;
+    line-height: 15px;
+    color: red ;
+    border: solid red 0.5px;
+    border-radius: 50%
+    ;
+
+}
+
+.lable{
+    font-size: small ;
+    border-radius: 10px;
+    height:30px;
+    width: 30px;
+    text-align: center;
+    line-height:30px;
+    padding: 2px;
+    
+    
+      
+}
+
+section{
+    margin-top: 50px;
+}
+
+.dimensione-span{
+    margin-top: 15px;
+}
+
+.blue{
+    background-color: rgb(0, 140, 255);
+    color: white;
+}
+
+.viola{
+    background-color: rgb(144, 0, 255);
+    color: white;
+}
+
+.verde{
+    background-color: rgb(31, 198, 76);
+    color: white;
+}
+
+.arancione{
+    background-color: rgb(255, 157, 0);
+    color: white;
+}
+
+.peas{
+    background-color: rgb(176, 201, 38);
+    color: white;
+}
